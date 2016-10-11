@@ -3,7 +3,7 @@ and must respect the attributions of third party/persons who contribute releasin
 
 Credits
 LTFXGuy, Game-Deception, P47R!CK, [oC]jLn, xSh, Tabris, Tetsuo, OGC Team,
-PharLap, panzer, Xen, ViscountPherget and all others we forgot :P
+PharLap, panzer, Xen, panzer, ViscountPherget and all others we forgot :P
 
 Special Credits
 ===============
